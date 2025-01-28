@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "plugin-by-tutorial",
+	"version": "${version}",
+	"name": "plugin-by-tutorial",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/plugin-by-tutorial/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "ru.virtical.tutorialmod.PluginByTutorial"
+		],
+		"client": [
+			"ru.virtical.tutorialmod.PluginByTutorialClient"
+		],
+		"fabric-datagen": [
+			"ru.virtical.tutorialmod.PluginByTutorialDataGenerator"
+		]
+	},
+	"mixins": [
+		"plugin-by-tutorial.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
