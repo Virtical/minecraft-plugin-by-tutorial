@@ -2,5 +2,8 @@
   "item.plugin-by-tutorial.ruby": "Ruby",
   "item.plugin-by-tutorial.raw_ruby": "Raw ruby",
 
-  "itemGroup.plugin-by-tutorial.ruby": "Ruby Group"
+  "itemGroup.plugin-by-tutorial.ruby": "Ruby Group",
+
+  "block.plugin-by-tutorial.ruby_block": "Block of Ruby",
+  "block.plugin-by-tutorial.raw_ruby_block": "Block of Raw Ruby"
 }

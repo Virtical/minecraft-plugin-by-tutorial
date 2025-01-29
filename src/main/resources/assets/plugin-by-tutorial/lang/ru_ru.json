@@ -2,5 +2,8 @@
   "item.plugin-by-tutorial.ruby": "Рубин",
   "item.plugin-by-tutorial.raw_ruby": "Необработанный рубин",
 
-  "itemGroup.plugin-by-tutorial.ruby": "Рубиновая группа"
+  "itemGroup.plugin-by-tutorial.ruby": "Рубиновая группа",
+
+  "block.plugin-by-tutorial.ruby_block": "Рубиновый блок",
+  "block.plugin-by-tutorial.raw_ruby_block": "Необработанный рубиновый блок"
 }

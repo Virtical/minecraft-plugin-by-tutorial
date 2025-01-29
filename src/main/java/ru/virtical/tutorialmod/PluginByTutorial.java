@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import ru.virtical.tutorialmod.block.ModBlocks;
 import ru.virtical.tutorialmod.item.ModItemGroups;
 import ru.virtical.tutorialmod.item.ModItems;
 
@@ -15,5 +16,6 @@ public class PluginByTutorial implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 }
