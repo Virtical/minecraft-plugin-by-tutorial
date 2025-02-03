@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "plugin-by-tutorial:block/sound_block"
+    }
+  }
+}

@@ -10,5 +10,6 @@
   "block.plugin-by-tutorial.ruby_ore": "Рубиновая руда",
   "block.plugin-by-tutorial.deepslate_ruby_ore": "Глубокосланцевая рубиновая руда",
   "block.plugin-by-tutorial.nether_ruby_ore": "Незеритовая рубиновая руда",
-  "block.plugin-by-tutorial.end_stone_ruby_ore": "Эндернитовая руюиновая руда"
+  "block.plugin-by-tutorial.end_stone_ruby_ore": "Эндернитовая руюиновая руда",
+  "block.plugin-by-tutorial.sound_block": "Звуковой блок"
 }
