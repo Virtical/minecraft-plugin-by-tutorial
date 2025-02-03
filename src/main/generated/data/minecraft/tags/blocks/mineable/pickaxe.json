@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "plugin-by-tutorial:raw_ruby_block",
+    "plugin-by-tutorial:ruby_block",
+    "plugin-by-tutorial:ruby_ore",
+    "plugin-by-tutorial:deepslate_ruby_ore",
+    "plugin-by-tutorial:nether_ruby_ore",
+    "plugin-by-tutorial:end_stone_ruby_ore",
+    "plugin-by-tutorial:sound_block"
+  ]
+}

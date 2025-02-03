@@ -1,0 +1,8 @@
+// 1.20.4	2025-02-03T19:09:42.6163253	plugin-by-tutorial/Block Loot Tables
+7e68cee8150fcfb5b87bc525b1bed5b47f45c46c data\plugin-by-tutorial\loot_tables\blocks\deepslate_ruby_ore.json
+3e6e740c0b719f4387e2d133b1ce8ed51bdb0f6a data\plugin-by-tutorial\loot_tables\blocks\raw_ruby_block.json
+17f602cda63c75f016fbc3c60f42401d92cae896 data\plugin-by-tutorial\loot_tables\blocks\end_stone_ruby_ore.json
+cb96d07724da5cbd0c7f7407e172653475c9ebff data\plugin-by-tutorial\loot_tables\blocks\sound_block.json
+35b54fc1b947b30a82516d2d71438b538b66c4fd data\plugin-by-tutorial\loot_tables\blocks\nether_ruby_ore.json
+11f561220122b21ea1c736c7286c8e1c0120aa4a data\plugin-by-tutorial\loot_tables\blocks\ruby_ore.json
+50ae75afd96d66a57332a37009ef0c4f79a0f9a7 data\plugin-by-tutorial\loot_tables\blocks\ruby_block.json

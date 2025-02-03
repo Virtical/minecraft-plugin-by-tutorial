@@ -1,0 +1,7 @@
+// 1.20.4	2025-02-03T19:09:42.6083234	plugin-by-tutorial/Tags for minecraft:block
+2df98fc1dc066ab0f6fcdf633ac425cccc013d9e data\plugin-by-tutorial\tags\blocks\metal_detector_detectable_blocks.json
+91255e67686205ff895128ef83d383b93d78ecda data\fabric\tags\blocks\needs_tool_level_4.json
+056e9e07c8725d2d253df7fc4191d380b2cbef75 data\minecraft\tags\blocks\needs_diamond_tool.json
+d0fb4b9e2d2a7d63b1cf59b3368b8d776c43395c data\minecraft\tags\blocks\mineable\pickaxe.json
+93368b0d8efdddb51431b0ff0094dfaab448a0d5 data\minecraft\tags\blocks\needs_iron_tool.json
+946006f0f2701451638773bdf0082d997d9c6a84 data\minecraft\tags\blocks\needs_stone_tool.json

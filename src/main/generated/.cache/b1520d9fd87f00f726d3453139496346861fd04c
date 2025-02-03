@@ -1,0 +1,27 @@
+// 1.20.4	2025-02-03T19:09:42.612323	plugin-by-tutorial/Model Definitions
+48a2e8cdda4639bd06a1756c33674ced8c099594 assets\plugin-by-tutorial\blockstates\nether_ruby_ore.json
+81ec6827d4148fcc37167142b68b49b3fbadf9d0 assets\plugin-by-tutorial\models\block\ruby_ore.json
+a1ad0e579d281bf17519d3efdb9e4832eb17ad6e assets\plugin-by-tutorial\models\item\deepslate_ruby_ore.json
+167d6eee086acd05f1f8abfe49f0e3b8e9820d81 assets\plugin-by-tutorial\blockstates\sound_block.json
+01f4ad50e4153a51a8685da8d6ca36cc3785f5be assets\plugin-by-tutorial\models\block\nether_ruby_ore.json
+28d250c33e4e8c19d80e3054b8fb552c428ef3f8 assets\plugin-by-tutorial\blockstates\end_stone_ruby_ore.json
+b9bb5d7471337c5a774ca20d7e85d27abdada284 assets\plugin-by-tutorial\models\item\end_stone_ruby_ore.json
+8eb41b7150736a039dafa93ae6afc56a1b9b332d assets\plugin-by-tutorial\blockstates\ruby_block.json
+7f0da181a431eecdf3051b5bce96bf0c3b24e4d7 assets\plugin-by-tutorial\models\block\ruby_block.json
+677962fa9d995265afcda1ecfd42aeb8ffc1cf5f assets\plugin-by-tutorial\models\item\raw_ruby.json
+2bd5d3fbc0fe64e9a1058626ac2edf0e48b11f51 assets\plugin-by-tutorial\models\item\tomato.json
+84fb882b86ffb8c26ed8f2fd9dca55788debd0ff assets\plugin-by-tutorial\models\block\end_stone_ruby_ore.json
+99dcd633e765606af3e8c02093d6d597cac6d60f assets\plugin-by-tutorial\blockstates\raw_ruby_block.json
+eacef1bc2cd1369933c624c0aa98ebaf4f372c94 assets\plugin-by-tutorial\models\item\coal_briquette.json
+c34882077931c935eca8cdc1271ad77a2b78b393 assets\plugin-by-tutorial\models\item\sound_block.json
+47a39ab550722de3682fc41614296015d0cd7189 assets\plugin-by-tutorial\models\item\ruby_ore.json
+8826d337b14b9ae49e9446ffafefa009bfe99b86 assets\plugin-by-tutorial\models\item\nether_ruby_ore.json
+dc629dc7e6239f1d49c9d0208bd34a47f417c720 assets\plugin-by-tutorial\models\item\raw_ruby_block.json
+efa4ba7fada3ddaa74d6789bc18716963d38bf76 assets\plugin-by-tutorial\models\item\ruby.json
+3eb7d0d78a7a1ee6b71d9a575f8f2994b39f8063 assets\plugin-by-tutorial\models\block\deepslate_ruby_ore.json
+242f709e00c2db706f959ff091e45b1252e0116c assets\plugin-by-tutorial\models\block\sound_block.json
+896fff15712464c74cc53e0f9302311e67177ff7 assets\plugin-by-tutorial\models\item\ruby_block.json
+d617ac0e6e81763f857e4f986e4b143f3d86731c assets\plugin-by-tutorial\blockstates\ruby_ore.json
+b28702f40893d2eeaf360b6efe5de466b49a5c39 assets\plugin-by-tutorial\models\block\raw_ruby_block.json
+329019c8c980e4f71d381080d826f952097f7257 assets\plugin-by-tutorial\models\item\metal_detector.json
+f441a76d7254a73e7627e66a09bf87d6dd09a103 assets\plugin-by-tutorial\blockstates\deepslate_ruby_ore.json
