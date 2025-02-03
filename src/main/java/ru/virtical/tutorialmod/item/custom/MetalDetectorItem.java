@@ -13,6 +13,7 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 import org.jetbrains.annotations.Nullable;
+import ru.virtical.tutorialmod.util.ModTags;
 
 import java.util.List;
 
@@ -27,19 +28,19 @@ public class MetalDetectorItem extends Item {
             BlockPos positionClicked = context.getBlockPos();
             PlayerEntity player = context.getPlayer();
 
-            boolean fuondBlock = false;
+            boolean foundBlock = false;
             for(int i=0; i <= positionClicked.getY() + 64; i++) {
                 BlockState state = context.getWorld().getBlockState(positionClicked.down(i));
 
                 if(isValuableBlock(state)) {
                     outputValuableCoordinates(positionClicked.down(i), player, state.getBlock());
-                    fuondBlock = true;
+                    foundBlock = true;
 
                     break;
                 }
             }
 
-            if(!fuondBlock) {
+            if(!foundBlock) {
                 player.sendMessage(Text.literal("Ценная руда не найдена!"));
             }
 
@@ -56,7 +57,7 @@ public class MetalDetectorItem extends Item {
     }
 
     private boolean isValuableBlock(BlockState state) {
-        return state.isOf(Blocks.IRON_ORE) || state.isOf(Blocks.DIAMOND_ORE);
+        return state.isIn(ModTags.Blocks.METAL_DETECTOR_DETECTABLE_BLOCKS);
     }
 
     @Override
