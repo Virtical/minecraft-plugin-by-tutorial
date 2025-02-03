@@ -1,12 +1,12 @@
 {
+  "itemGroup.plugin-by-tutorial.ruby": "Рубиновая группа",
+
   "item.plugin-by-tutorial.ruby": "Рубин",
   "item.plugin-by-tutorial.raw_ruby": "Необработанный рубин",
-
-  "itemGroup.plugin-by-tutorial.ruby": "Рубиновая группа",
+  "item.plugin-by-tutorial.metal_detector": "Металоискатель",
 
   "block.plugin-by-tutorial.ruby_block": "Рубиновый блок",
   "block.plugin-by-tutorial.raw_ruby_block": "Необработанный рубиновый блок",
-
   "block.plugin-by-tutorial.ruby_ore": "Рубиновая руда",
   "block.plugin-by-tutorial.deepslate_ruby_ore": "Глубокосланцевая рубиновая руда",
   "block.plugin-by-tutorial.nether_ruby_ore": "Незеритовая рубиновая руда",
