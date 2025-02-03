@@ -14,5 +14,7 @@
   "block.plugin-by-tutorial.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.plugin-by-tutorial.nether_ruby_ore": "Nether Ruby Ore",
   "block.plugin-by-tutorial.end_stone_ruby_ore": "End Stone Ruby Ore",
-  "block.plugin-by-tutorial.sound_block": "Sound Block"
+  "block.plugin-by-tutorial.sound_block": "Sound Block",
+
+  "tooltip.plugin-by-tutorial.metal_detector.tooltip": "Finds valuables underground"
 }
